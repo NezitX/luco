@@ -14,7 +14,8 @@ class Vote {
   };
   
   async fetchApi(botId = this.options.id, token = this.options.token) {
-    const url = `https://ampeiwywkdwp.efoodzhlpfzbk.repl.co/get-info/?source=${botId}&manga=${token}`;
+    const url = `https://luco-list.xyz/api/v1/vote/?botId=${botId}&botToken=${token}`;
+    
     try {
       const response = await axios.get(url);
       return response.data;

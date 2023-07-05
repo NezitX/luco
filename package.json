@@ -1,5 +1,5 @@
 {
-  "name": "lucoApi",
+  "name": "luco",
   "version": "0.0.1",
   "description": "later",
   "main": "src/index.js",
@@ -10,7 +10,7 @@
   "keywords": [
     "luco-list",
     "luco list",
-    "lucoApi",
+    "luco",
     "luco api",
     "api",
     "discord"
