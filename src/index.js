@@ -1,5 +1,5 @@
-const { lucoApi } = require('./classes/index');
+const { Vote } = require('./classes/bot/vote');
 
 module.exports = {
-  lucoApi
+  lucoBot: Vote
 }
