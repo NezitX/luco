@@ -19,9 +19,9 @@
 ![License](https://img.shields.io/npm/l/luco) &nbsp; &nbsp;
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fluco-list.xyz&label=luco-list.xyz) &nbsp; &nbsp;
 
-[npm-image]: https://img.shields.io/npm/v/luco.svg?color=green
+[npm-image]: https://img.shields.io/npm/v/luco.svg?color=43dc24
 [npm-url]: https://npmjs.org/package/luco
-[download-image]: https://img.shields.io/npm/dt/luco.svg?color=3182b0
+[download-image]: https://img.shields.io/npm/dt/luco.svg?color=43dc24
 [download-url]: https://npmjs.org/package/luco
 
   </div>
@@ -46,9 +46,9 @@ Luco had many examples and functions like information, votes and more in future.
 
 ## Features
 
--   **very simple** and easy to use.
+-   **very simple** and easy to use with examples.
 -   **faster** and have many options to use.
--   **Support** to help you in our discord 24/7.
+-   **Support** to help you in our discord server 24/7.
 -   **many functions** to use with powerful optimization.
 
 ## How it Work
@@ -114,7 +114,7 @@ const vote = new lucoBot.Vote({
 });
 ```
 You can check <a herf="https://discordjs.guide/">Message Components or Embeds</a> on discord guide for more information.
-> :warning: **If you are using embed**: the `{user}`, `{bot}` and `{count}` will work only in embed Description only.
+> :warning: **If you are using embeds**: Be carefully the `{user}`, `{bot}` and `{count}` will work in embed Description only.
 
 ## Help
 Any errors or problems you encounter while using luco, we will be happy to assist you our <a herf="https://discord.gg/BqG6UKeHkU">discord server</a>
