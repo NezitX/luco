@@ -48,7 +48,7 @@ Luco had many examples and functions like information, votes and more in future.
 
 -   **very simple** and easy to use.
 -   **faster** and have many options to use.
--   **Support** to help you in our discord 24/7.
+-   **Support** to help you in our discord server 24/7.
 -   **many functions** to use with powerful optimization.
 
 ## How it Work
@@ -114,7 +114,7 @@ const vote = new lucoBot.Vote({
 });
 ```
 You can check <a herf="https://discordjs.guide/">Message Components or Embeds</a> on discord guide for more information.
-> :warning: **If you are using embed**: the `{user}`, `{bot}` and `{count}` will work only in embed Description only.
+> :warning: **If you are using embeds**: be careful the `{user}`, `{bot}` and `{count}` will work in embed Description only.
 
 ## Help
 Any errors or problems you encounter while using luco, we will be happy to assist you our <a herf="https://discord.gg/BqG6UKeHkU">discord server</a>
