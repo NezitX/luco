@@ -1,6 +1,6 @@
 {
   "name": "luco",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "later",
   "main": "src/index.js",
   "scripts": {
