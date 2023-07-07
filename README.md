@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <b>The Official Api From <a herf="https://luco-list.xyz">Luco List</a>, Which Make Know Who Vote To Your Bot In Our List And More ...</b>
+  <b>The Official Api From <a herf="https://luco-list.xyz">Luco List</a>, with many function to use in your bot</b>
 </div>
 
 ---
